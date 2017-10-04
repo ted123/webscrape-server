@@ -1,0 +1,22 @@
+{
+  "name": "webscrape-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ted123/webscrape-server.git"
+  },
+  "author": "Dedito Cantila Jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ted123/webscrape-server/issues"
+  },
+  "homepage": "https://github.com/ted123/webscrape-server#readme",
+  "dependencies": {
+    "osmosis": "^1.1.4"
+  }
+}
